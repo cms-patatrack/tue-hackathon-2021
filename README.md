@@ -1,7 +1,7 @@
 # 9th Patatrack Hackathon
 
 ## Required Packages
-The notebook requires three python packages: `notebook`, `uproot`, and `numpy`.
+The notebook requires three python packages: `notebook`, `uproot`, `numpy`, and `matplotlib`.
 
 You can install them in different ways based on your environment.
 
@@ -22,7 +22,7 @@ Do not forget to uncomment the first line when executing the notebook for the fi
 ### PIP
 
 ```
-pip install numpy notebook uproot
+pip install numpy notebook uproot matplotlib
 ```
 
 ### Anaconda
@@ -34,6 +34,7 @@ conda update --all
 conda install numpy
 conda install notebook
 conda install uproot
+conda install matplotlib
 ```
 
 ### Anaconda using the provided environment files
