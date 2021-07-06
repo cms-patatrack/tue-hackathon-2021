@@ -1,7 +1,7 @@
 # 9th Patatrack Hackathon
 
 ## Required Packages
-The notebook requires three python packages: `notebook`, `uproot` and `numpy`.
+The notebook requires three python packages: `notebook`, `uproot`, and `numpy`.
 
 You can install them in different ways based on your environment.
 
